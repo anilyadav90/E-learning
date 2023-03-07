@@ -1,0 +1,4 @@
+1  session jarur login submit par
+2  get sa value sand href="Course_details.php?thiscourse=18'"
+3  echo ma ' ya comma jayda better ha nhi to ` and " badd kee batt ha 
+4   

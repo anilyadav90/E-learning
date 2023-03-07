@@ -1,0 +1,78 @@
+.admin-sidebar{
+    height: 350vh;
+    display: flex;
+    flex-direction: column;
+    padding-top: 3rem;
+    background-color: rgb(222, 241, 248);
+    
+
+}
+.navbar {
+    margin-bottom: -16px !important;
+  }
+  #copyright-main {
+    margin-top: -1rem !important;
+  }
+.lesson_main_head{
+    background-image: url("./course\ -background2.jpg");
+    background-size: contain;
+}
+
+.admin-sidebarcontant{
+   
+    display: flex;
+    flex-direction: row;
+   
+}
+.admin-contant-card{
+    height: 12px;
+}
+.card{
+    height: 11rem;
+}
+.admin-card1{
+    margin-right: 1rem;
+    margin-left: 16rem;
+    margin-top: 2rem;
+    background-color:#18223c;
+    border: .3rem solid #ddcece;
+    margin-bottom: 2rem;
+}
+.admin-conhead{
+    color: #a2aefc;
+    font-weight: bold;
+    
+}
+.admin-con1part2{
+    color: #fd5b23;
+    font-weight: bold;
+}
+.admin-con1part1{
+    color: white;
+    font-weight: bold;
+}
+.admin-card2{
+    margin-right: 1rem;
+    margin-top: 2rem;
+    background-color:#18223c;
+    border: .3rem solid #ddcece;
+}
+.admin-card3{
+    margin-right: 1rem;
+    margin-top: 2rem;
+    background-color:#18223c;
+    border: .3rem solid #ddcece;
+}
+.side1{
+    font-size: .8rem;
+   font-weight: bold;
+    color: #1e5ab3;
+  
+    padding: .4rem .2rem;
+}
+.adminpage-navbar{
+    background-color: #103772 !important;
+}
+.sidebar-contant{
+    text-decoration: none;
+}

@@ -1,0 +1,150 @@
+.admin_course_head {
+  margin-left: -0.77rem;
+  margin-right: -0.77rem;
+  font-weight: bold;
+  background-color: #008b8b;
+color: white;
+}
+
+.container {
+  max-width: 978px;
+}
+
+.add_course {
+  position: fixed;
+  bottom: 2rem;
+  right: 3rem;
+}
+
+.admin-sidebar {
+  height: 800vh;
+}
+
+.all_courses {
+  margin-left: 4rem !important;
+  margin-right: 23rem !important;
+  background-color: #d9e1e8;
+  height: 55rem;
+  border-radius: 1rem;
+}
+
+.buttons {
+  margin-top: 2rem;
+}
+
+.add_course_head {
+  font-weight: bold;
+}
+
+.form-label {
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
+  font-size: small;
+}
+
+.all_courses2 {
+  margin-left: 4rem !important;
+  margin-right: 23rem !important;
+  background-color: #d9e1e8;
+  height: 30rem;
+  border-radius: 1rem;
+}
+
+.admin-sidebar2 {
+  height: 140vh;
+}
+
+.Search_con {
+  margin-top: 4rem;
+}
+
+.find_button {
+  padding: .2rem 0.7rem;
+  font-weight: bold;
+}
+
+.find_lesson_label {
+  margin-right: 1rem;
+  font-weight: bold;
+  color: white;
+}
+
+.user_profile_image {
+  border-radius: 1rem;
+  border: 2px solid;
+}
+
+.class_profile {
+  font-weight: bold;
+  padding-right: 6rem;
+  padding-left: 1rem;
+}
+
+.profie_part4 {
+  padding-right: 18.5rem;
+  padding-left: 0.1rem;
+}
+
+#profile_city {
+  padding-left: 0rem;
+  padding-right: 15.8rem;
+}
+
+.profie_part3 {
+  padding-right: 2.1rem;
+  padding-left: 27.9rem;
+}
+
+#userFeedback {
+  border-radius: 1rem;
+  color: black;
+  font-weight: normal;
+
+}
+
+.feedback_rowHead {
+  background-color: darkcyan !important;
+  color: white;
+}
+
+.profie_part5 {
+  padding-right: 4.1rem;
+  padding-left: 27.9rem;
+}
+
+.profie_part6 {
+  padding-right: 16.1rem;
+  padding-left: 0.6rem;
+}
+
+.profie_part7 {
+  padding-right: 13.5rem;
+  padding-left: 0.2rem
+}
+
+.profie_part9 {
+  margin-top: 7rem !important;
+  margin-left: 5rem !important;
+}
+
+.updateProfile_head {
+  padding: .3rem .4rem;
+  border-radius: 2rem;
+  font-weight: bold;
+}
+
+.profie_part1 {
+  padding-left: 0.6rem;
+  padding-right: 15.5rem;
+}
+
+.profile_name {
+
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+
+}
+
+.profile_part8 {
+  margin-top: 7rem;
+}

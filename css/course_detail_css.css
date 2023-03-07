@@ -1,0 +1,15 @@
+.course_details{
+    margin-left: 2rem;
+}
+
+.courseEnter_footer{
+    text-align: csenter;
+    background-color: #262626;
+    position: absolute;
+    bottom: 0;
+}
+.payment_css{
+    font-weight: bold;
+    color: black;
+    
+}

@@ -1,0 +1,64 @@
+echo'    <div class="side1 text-center my-5">
+
+    <img src="image/'.$profileupdated_row['profileuser_Picture'].'" alt="insert your image" height="140px" class="user_profile_image">
+    </div>
+    <div class="text-center">
+     <a href="profile_update.php" style="font-weight:600"">Update profile</a>
+    </div>
+   
+    <div class="profile_name">
+    <h6>
+       <span class="text-center" style="margin-left:20rem;font-weight:600">User Email: </span>';
+   
+    echo   '<span class="text-center" style="margin-left:3rem;font-weight:600">';
+           echo  $_SESSION['email']; 
+     echo '   </span>
+    </h6>
+    <br>
+    <h6 >
+   
+   <span class="text-center" style="margin-left:20rem;font-weight:600">User Name:</span>';
+   echo '<span class="text-center" style="margin-left:2.8rem;font-weight:600">';
+       echo  $profileupdated_row['profileuser_name']; 
+   echo '</span>
+   </h6>
+   
+   
+    <br>
+   
+   <h6 >
+   <span class="text-center" style="margin-left:20rem;font-weight:600">Country:</span>
+   
+    <span class="text-center" style="margin-left:4.2rem;font-weight:600">';
+    echo $profileupdated_row['profileuser_Country'];
+  echo ' </span>
+   </h6>
+    <br>
+   
+   
+   <h6 >
+    <span class="text-center" style="margin-left:20rem;font-weight:600"">State:</span> 
+   
+    <span class="text-center" style="margin-left: 5.6rem;font-weight:600"">';
+     echo $profileupdated_row['profileuser_State'];
+   echo '</span>
+   </h6>
+   
+    <br>
+   
+    <h6>
+    <span class="text-center" style="margin-left:20rem;font-weight:600"">Age:</span>
+   
+    <span class="text-center" style="margin-left:6.2rem;font-weight:600"">';
+     echo $profileupdated_row['profileuser_Age'];
+    echo '</span>
+   </h6>
+    <br>
+   
+    <h6>
+    <span class="text-center" style="margin-left:20rem;font-weight:600"">City:</span>
+   
+    <span class="text-center" style="margin-left: 6.2rem;font-weight:600"">';
+    echo $profileupdated_row['profileuser_City']; 
+   echo '</span>
+   </h6>';
